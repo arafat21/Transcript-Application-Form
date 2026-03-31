@@ -43,10 +43,13 @@ The **Transcript Application Form** is designed to simplify the process of colle
 
 ## 📂 Project Structure
 Transcript-Application-Form/
-├── index.html # Main HTML file
-├── style.css # Styling
-├── script.js # Application logic
-└── assets/ # Images / additional resources
+```
+Transcript-Application-Form/
+├── index.html      # Main HTML file
+├── style.css       # Styling
+├── script.js       # Application logic
+└── Photos/         # Images / additional resources
+```
 
 ## ⚙️ How It Works
 
